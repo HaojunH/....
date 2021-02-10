@@ -1,5 +1,7 @@
 body { 
-	background-color : lightblue ;}
+	background-color : lightblue ;
+border: dashed red; }
 
 h1 {
-	font-family: "arial" ; }
+	font-family: "arial" ; 
+	color: red}
